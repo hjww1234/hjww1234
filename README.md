@@ -1,10 +1,5 @@
 ## Hi there 👋
 i like play mahjong computer games and listening ti music.
-<!--
-**hjww1234/hjww1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m a student
 - 🌱 I’m currently learning AAM
 - 👯 I’m looking to collaborate on ...
